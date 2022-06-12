@@ -1,0 +1,16 @@
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\bin\Debug\net5.0\DentalClinic.exe
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\bin\Debug\net5.0\DentalClinic.deps.json
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\bin\Debug\net5.0\DentalClinic.runtimeconfig.json
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\bin\Debug\net5.0\DentalClinic.runtimeconfig.dev.json
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\bin\Debug\net5.0\DentalClinic.dll
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\bin\Debug\net5.0\ref\DentalClinic.dll
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\bin\Debug\net5.0\DentalClinic.pdb
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\obj\Debug\net5.0\DentalClinic.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\obj\Debug\net5.0\DentalClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\obj\Debug\net5.0\DentalClinic.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\obj\Debug\net5.0\DentalClinic.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\obj\Debug\net5.0\DentalClinic.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\obj\Debug\net5.0\DentalClinic.dll
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\obj\Debug\net5.0\ref\DentalClinic.dll
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\obj\Debug\net5.0\DentalClinic.pdb
+C:\Users\dell\OneDrive\Desktop\مشروع\DentalClinic\DentalClinic\obj\Debug\net5.0\DentalClinic.genruntimeconfig.cache
